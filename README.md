@@ -6,7 +6,8 @@ Welcome to my "Sales Dashboard Project"! This data analytics project focuses on 
 
 ## Screenshot
 
-![Sales Dashboard](Dashboard.jpg)
+![Dashboard](https://github.com/user-attachments/assets/5534d841-d6b8-46b3-b8f8-d67b900a774a)
+
 
 ## Project Description
 
@@ -68,7 +69,3 @@ To explore the sales dashboard and gain insights into sales performance:
 ## Conclusion
 
 This sales dashboard project demonstrates my proficiency in data analysis and visualization using MS Excel. It highlights my ability to clean, pre-process, analyze, and visualize data effectively, providing valuable insights into business performance.
-
-## Contact
-
-For any questions or further information, please contact me at [samlamba29@gmail.com](mailto:samlamba29@gmail.com).
